@@ -1,11 +1,17 @@
 body {
-      background:#3BA3D0; 
+      background:#23a6de; 
       font-family:sans-serif;
 }
 h1 {
       text-align:center;
+      border: 5px dashed rgb(4, 233, 80);
 }
 
+p {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(246, 0, 193);
+}
 p img {
       width: 20px;
       height:20px;
